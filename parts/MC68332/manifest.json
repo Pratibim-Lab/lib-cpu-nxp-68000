@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_68000/MC68332:MC68332",
+  "name": "MC68332",
+  "library": "CPU_NXP_68000",
+  "file": "CPU_NXP_68000.kicad_symdir/MC68332.kicad_sym",
+  "description": "MCU 32 bit, PQFP-132",
+  "datasheet": "http://pdf.datasheetcatalog.com/datasheet/motorola/SPAKMC332AVFC20.pdf",
+  "keywords": "MCU 32 bit",
+  "footprint": "Package_QFP:PQFP-132_24x24mm_P0.635mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-68000@master/parts/MC68332/",
+  "part_path": "parts/MC68332",
+  "symbol_file": "parts/MC68332/MC68332.kicad_sym",
+  "source_library": "CPU_NXP_68000.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:30.176Z"
+}

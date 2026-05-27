@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_68000/MC68000P:MC68000P",
+  "name": "MC68000P",
+  "library": "CPU_NXP_68000",
+  "file": "CPU_NXP_68000.kicad_symdir/MC68000P.kicad_sym",
+  "description": "16/32-bit microprocessor, 16-bit external data bus, 23-bit external address bus (effectively 24-bit), DIP-64 (900 mil, case 754-01)",
+  "datasheet": "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf",
+  "keywords": "Motorola Freescale m68000 m68k CISC CPU HMOS SCN68000xxN64 HD68000P TS68000xP Obsolete",
+  "footprint": "Package_DIP:DIP-64_W22.86mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-68000@master/parts/MC68000P/",
+  "part_path": "parts/MC68000P",
+  "symbol_file": "parts/MC68000P/MC68000P.kicad_sym",
+  "source_library": "CPU_NXP_68000.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:30.149Z"
+}

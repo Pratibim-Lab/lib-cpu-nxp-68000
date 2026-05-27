@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_68000/MC68008FN:MC68008FN",
+  "name": "MC68008FN",
+  "library": "CPU_NXP_68000",
+  "file": "CPU_NXP_68000.kicad_symdir/MC68008FN.kicad_sym",
+  "description": "8/32-bit microprocessor, 8-bit external data bus, 22-bit external address bus, PLCC-52 (case 778-01/778-02)",
+  "datasheet": "https://archive.org/details/bitsavers_motorola68Apr85_5825575/mode/1up",
+  "keywords": "Motorola Freescale m68000 m68k CISC CPU HMOS Obsolete",
+  "footprint": "Package_LCC:MO047AD_PLCC-52_19.1x19.1mm_P1.27mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-68000@master/parts/MC68008FN/",
+  "part_path": "parts/MC68008FN",
+  "symbol_file": "parts/MC68008FN/MC68008FN.kicad_sym",
+  "source_library": "CPU_NXP_68000.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:30.155Z"
+}

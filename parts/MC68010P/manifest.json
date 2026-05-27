@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_68000/MC68010P:MC68010P",
+  "name": "MC68010P",
+  "library": "CPU_NXP_68000",
+  "file": "CPU_NXP_68000.kicad_symdir/MC68010P.kicad_sym",
+  "description": "16/32-bit microprocessor, 16-bit external data bus, 23-bit external address bus (effectively 24-bit), virtual memory support, loop mode, DIP-64 (900 mil, case 754-01)",
+  "datasheet": "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf",
+  "keywords": "Motorola Freescale m68000 m68k CISC CPU HMOS SCN68010xxN64 Obsolete",
+  "footprint": "Package_DIP:DIP-64_W22.86mm",
+  "extends": "MC68000P",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-68000@master/parts/MC68010P/",
+  "part_path": "parts/MC68010P",
+  "symbol_file": "parts/MC68010P/MC68010P.kicad_sym",
+  "source_library": "CPU_NXP_68000.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:30.166Z"
+}

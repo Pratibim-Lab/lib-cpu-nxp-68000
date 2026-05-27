@@ -1,0 +1,17 @@
+{
+  "id": "CPU_NXP_68000/MC68008P:MC68008P",
+  "name": "MC68008P",
+  "library": "CPU_NXP_68000",
+  "file": "CPU_NXP_68000.kicad_symdir/MC68008P.kicad_sym",
+  "description": "8/32-bit microprocessor, 8-bit external data bus, 20-bit external address bus, DIP-48 (600 mil, case 767-02)",
+  "datasheet": "https://www.nxp.com/docs/en/reference-manual/MC68000UM.pdf",
+  "keywords": "Motorola Freescale m68000 m68k CISC CPU HMOS Obsolete",
+  "footprint": "Package_DIP:DIP-48_W15.24mm",
+  "extends": "",
+  "base_url": "https://cdn.jsdelivr.net/gh/Pratibim-Lab/lib-cpu-nxp-68000@master/parts/MC68008P/",
+  "part_path": "parts/MC68008P",
+  "symbol_file": "parts/MC68008P/MC68008P.kicad_sym",
+  "source_library": "CPU_NXP_68000.kicad_symdir",
+  "schema_version": "1.1",
+  "updated_at": "2026-05-27T06:02:30.162Z"
+}
